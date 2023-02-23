@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "aa22db64a96a5eb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ffe00555b054e6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21e85889884989a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring源码阅读/Spring底层核心概念解析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97636a5e63992493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring源码阅读/Spring底层核心原理解析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cca97ce0a89a7d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring源码阅读/Spring底层核心原理解析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be7711abd48722b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2153b04c79d319a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f668ee8d8b8c22e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45f6ce1333d8d43d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fcf0b1d64f9bb053",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "593def3300c9366a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring源码阅读/Spring底层核心概念解析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "1bc99e63ed23c0ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "7222f2012e9f8f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53372546dd6cb0a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring源码阅读/Spring底层核心原理解析.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "431fb6ff1957934b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring源码阅读/Spring底层核心原理解析.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c432cfdfdc506fdf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb1d6df161b31c87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring源码阅读/Spring底层核心原理解析.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "4cca97ce0a89a7d3",
+  "lastOpenFiles": [
+    "Spring源码阅读/Spring源码三级缓存详解.md",
+    "Spring源码阅读/Spring底层核心原理解析.md",
+    "Spring源码阅读/Spring底层核心概念解析.md",
+    "未命名.md",
+    "单例的最佳实践/手写单例模式.md",
+    "assets/desktop.ini",
+    "assets/Spring底层核心概念解析/image-20230223132123253.png",
+    "assets/手写单例模式/image-20230223131504034.png",
+    "assets/手写单例模式/image-20230223131449874.png",
+    "assets/手写单例模式/image-20230223131445970.png",
+    "assets/手写单例模式",
+    "assets/Spring底层核心概念/image-20230223131353648.png",
+    "assets/Spring底层核心概念解析",
+    "assets",
+    "image-20230223131207057.png.md",
+    "assets/image-20230223131207057.png",
+    "image-20230223130957268.png",
+    "Spring源码阅读/assets/Spring底层核心概念/image-20230223130718771.png",
+    "Spring源码阅读/assets/Spring底层核心概念",
+    "Spring源码阅读/assets",
+    "单例的最佳实践/assets/Pasted image 20230223130254.png",
+    "单例的最佳实践/assets",
+    "Spring源码阅读/assets/Pasted image 20230223130103.png",
+    "Pasted image 20230223125551.png.md",
+    "单例的最佳实践",
+    "2023-02-23.md",
+    "未命名.canvas"
+  ]
+}

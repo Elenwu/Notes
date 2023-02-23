@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "nativeMenus": false,
+  "translucency": false,
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 16,
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "",
+  "theme": "obsidian",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "my_snippets"
+  ]
+}
