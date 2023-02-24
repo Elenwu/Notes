@@ -119,3 +119,5 @@ FactoryBean：是一类特殊的 Bean，他特殊在什么地方呢？就是他�
 那么这个FeignContext 是什么时候放入到Spring容器中的呢？
 这个就需要我们知道 SpringBoot的SPI机制，在Spring中有一种类似与Java SPI的加载机制。Spring会扫描META-INF/spring.factories文件中配置接口的实现类名称，然后在程序中读取这些配置文件并实例化。这种自定义的SPI机制也就是Spring Boot Starter实现的基础。
 所以在spring-cloud-openfeign-core.jar的META-INFO目录下查看会发现有一个spring.factories文件，里面配置需要Spring注入到容器中的类。其中FeignAutoConfiguration类里就注入了FeignContext类。
+
+

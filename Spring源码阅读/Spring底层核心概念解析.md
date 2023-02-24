@@ -97,4 +97,16 @@ System.out.println(beanFactory.getBean("user"));
 13. ConfigurableListableBeanFactory：继承了ListableBeanFactory、AutowireCapableBeanFactory、ConfigurableBeanFactory
 14. AbstractAutowireCapableBeanFactory：继承了AbstractBeanFactory，实现了AutowireCapableBeanFactory，拥有了自动装配的功能
 15. DefaultListableBeanFactory：继承了AbstractAutowireCapableBeanFactory，实现了ConfigurableListableBeanFactory接口和BeanDefinitionRegistry接口，所以DefaultListableBeanFactory的功能很强大
+## ApplicationContext
 
+上面有分析到，ApplicationContext是个接口，实际上也是一个BeanFactory，不过比BeanFactory更加强大，比如：
+1.  HierarchicalBeanFactory：拥有获取父BeanFactory的功能
+2.  ListableBeanFactory：拥有获取beanNames的功能
+3.  ResourcePatternResolver：资源加载器，可以一次性获取多个资源（文件资源等等）
+4.  EnvironmentCapable：可以获取运行时环境（没有设置运行时环境功能）
+5.  ApplicationEventPublisher：拥有广播事件的功能（没有添加事件监听器的功能）
+6.  MessageSource：拥有国际化功能
+具体的功能演示，后面会有。
+我们先来看ApplicationContext两个比较重要的实现类：
+1.  AnnotationConfigApplicationContext
+2.  ClassPathXmlApplicationContext
