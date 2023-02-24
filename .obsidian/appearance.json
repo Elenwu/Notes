@@ -3,10 +3,10 @@
   "nativeMenus": false,
   "translucency": false,
   "cssTheme": "Blue Topaz",
-  "baseFontSize": 16,
+  "baseFontSize": 15,
   "textFontFamily": "JetBrains Mono",
   "interfaceFontFamily": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "monospaceFontFamily": "",
   "enabledCssSnippets": [
     "my_snippets"

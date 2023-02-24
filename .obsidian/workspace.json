@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring源码阅读/Spring底层核心原理解析.md",
+                "file": "Spring源码阅读/Spring源码三级缓存详解.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a11f73b3f15797f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenFeign源码阅读/OpenFeign核心流程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e8f1478b2b21dc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenFeign源码阅读/OpenFeign核心流程.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring源码阅读/Spring底层核心原理解析.md",
+                "file": "OpenFeign源码阅读/OpenFeign核心流程.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring源码阅读/Spring底层核心原理解析.md",
+                "file": "OpenFeign源码阅读/OpenFeign核心流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring源码阅读/Spring底层核心原理解析.md"
+                "file": "OpenFeign源码阅读/OpenFeign核心流程.md"
               }
             }
           }
@@ -185,13 +209,17 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "4cca97ce0a89a7d3",
+  "active": "a11f73b3f15797f3",
   "lastOpenFiles": [
-    "Spring源码阅读/Spring源码三级缓存详解.md",
+    "OpenFeign源码阅读/手写实现RPC框架.md",
+    "OpenFeign源码阅读/OpenFeign核心流程.md",
     "Spring源码阅读/Spring底层核心原理解析.md",
+    "OpenFeign源码阅读/手写实现RPC框架",
     "Spring源码阅读/Spring底层核心概念解析.md",
-    "未命名.md",
+    "Spring源码阅读/Spring源码三级缓存详解.md",
+    "OpenFeign源码阅读",
     "单例的最佳实践/手写单例模式.md",
+    "未命名.md",
     "assets/desktop.ini",
     "assets/Spring底层核心概念解析/image-20230223132123253.png",
     "assets/手写单例模式/image-20230223131504034.png",
